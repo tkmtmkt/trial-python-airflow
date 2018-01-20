@@ -26,14 +26,14 @@ python仮想環境を有効化する。
 $ source python/airflow/bin/activate
 ```
 
-データベースを作成する。（~/airflow）
+データベースを作成する。
 
 ```sh
-$ airflow initdb
+$ bin/init.sh
 ```
 
 WEBサーバを起動する。
 
 ```sh
-$ airflow webserver
+$ bin/airflow.sh webserver
 ```
