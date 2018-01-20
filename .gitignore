@@ -1,4 +1,4 @@
 python/pkgs/
-python/airflow/
+python/venv/
 airflow/*
 !airflow/dags/
