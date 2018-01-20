@@ -1,2 +1,2 @@
-/python/airflow
-/python/pkgs
+python/airflow/
+python/pkgs/
