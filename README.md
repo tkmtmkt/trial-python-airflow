@@ -1,4 +1,4 @@
-study-python-airflow
+trial-python-airflow
 ====================
 
 環境設定
